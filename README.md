@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sallienewton
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning webapp security.
-- 💞️ I’m looking to collaborate on application security.
+- 👀 I’m cybersecurity professional.
+- 🌱 I’m currently learning data analytics.
 - 📫 How to reach me: https://twitter.com/sallienewton | https://www.linkedin.com/in/sallienewton/
 
 
