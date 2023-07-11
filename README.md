@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sallienewton
+- 👋 Hi, I’m Sal
 - 👀 I’m a cybersecurity professional.
 - 🌱 I’m currently learning data analytics.
 - 📫 How to reach me: https://twitter.com/sallienewton | https://www.linkedin.com/in/sallienewton/
